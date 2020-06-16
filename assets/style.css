@@ -1,0 +1,88 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    color: #060606;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0;
+    font-size: 24px;
+}
+
+h2{
+    font-weight: bold;
+}
+
+h2, h3{
+    font-size: 14px;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.color-container{
+    text-align: center;
+}
+
+.color{
+    margin: 0 auto;
+    height: 40vh;
+    width: 80vw;
+}
+
+#red{
+    background-color: #DA291C;
+}
+
+#orange{
+    background-color: #FD5E0F;
+}
+
+#yellow1{
+    background-color: #FFC72C;
+}
+
+#yellow2{
+    background-color: #FAB617;
+}
+
+#green{
+    background-color: #3C341F;
+}
+
+#navy{
+    background-color: #303649;
+}
+
+#blue1{
+    background-color: #1C2841;
+}
+
+#blue2{
+    background-color: #3075A3;
+}
+
+#blue3{
+    background-color: #B9D9EB;
+}
+
+#blue4{
+    background-color: #81D8D0;
+}
+
+#white{
+    background-color: #ECEEEB;
+}
+
+#black{
+    background-color: #060606;
+}
